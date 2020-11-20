@@ -11,7 +11,13 @@
 
 Pode conferir os requisitos no [repositório original](https://github.com/tryber/sd-03-project-trybeer-v2)
 
-O PR da nossa branch principal (main-group-9) não existe 
+O PR da nossa branch principal (main-group-9) não existe
+
+## Objetivos
+
+  - Treinar o uso de sockets
+  - Treinar refatoração de código
+  - Soft Skills -> trablaho de equipe e comunicação
 
 ## Desafio
 
